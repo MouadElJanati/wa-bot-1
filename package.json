@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "NazwaS",
+  "author": "MouadElJanati",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nazeda/termux-wa-bot.git"
+    "url": "git+https://github.com/MouadElJanati/termux-wa-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/Nazeda/wa-bot/issues"
+    "url": "https://github.com/MouadElJanati/wa-bot/issues"
   },
-  "homepage": "https://github.com/Nazeda/wa-bot#readme"
+  "homepage": "https://github.com/MouadElJanati/wa-bot#readme"
 }
